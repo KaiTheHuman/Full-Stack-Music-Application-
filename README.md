@@ -5,7 +5,7 @@ Class assignment to practice React, Node, Axios, and PhpMyAdmin
 To install this application, you will need to complete some additional steps.
 - 1 Go to backend (cd backend) and input 'npm i' to install node_modules.
 - 2 while in backend, go to db.js and insert your username, database password, database host, and database name into the commented areas.
-- 3 Go to backend (cd frontend) and input 'npm i' to install node_modules.
+- 3 Go to frontend (cd frontend) and input 'npm i' to install node_modules.
 - 4 Set up a MySQL database with artists, songs, Albums tables, with the mentioned columns in the SQL section of the assignment brief.
 - 5 to start server, go to backend/dist (cd backend/dist), node server.js.
 - 6 to start React go to frontend (cd/frontend), run start, and if it prompts you to choose a different port number, press Y.
